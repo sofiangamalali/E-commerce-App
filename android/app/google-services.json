@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "185861886443",
+    "project_id": "elhagga-shop",
+    "storage_bucket": "elhagga-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185861886443:android:d2bf5050befc9c12c949ae",
+        "android_client_info": {
+          "package_name": "com.shop.elhagga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185861886443-sq2viipjpgqhfkeb7h918b105gh5ltf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSPuO_DKEZuFqEb0vON0tyX_9Rw0Eh2Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185861886443-sq2viipjpgqhfkeb7h918b105gh5ltf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185861886443:android:a9677ddb1d747d4ec949ae",
+        "android_client_info": {
+          "package_name": "com.shop.elhagga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185861886443-1gfps4vp0d60hc5r2a22fbvli91a2kaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shop.elhagga",
+            "certificate_hash": "a4c2316c9004d8d2608cdf6a0a6a97c445c2c33a"
+          }
+        },
+        {
+          "client_id": "185861886443-sq2viipjpgqhfkeb7h918b105gh5ltf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSPuO_DKEZuFqEb0vON0tyX_9Rw0Eh2Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185861886443-sq2viipjpgqhfkeb7h918b105gh5ltf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
